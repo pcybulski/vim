@@ -1,6 +1,6 @@
 #!/bin/bash
 
-### Script for excluding .git  directory while comparing two directiories with vim DirDiff
+### Script for excluding .git directory while comparing two directiories with vim DirDiff
 ### Scipts invoked with alias
 ### alias vd='/usr/local/bin/DirDiff.sh'
 
